@@ -1,0 +1,3 @@
+2020-05-26 13:30:20.5101 ERROR Got an error
+2020-05-26 13:31:13.4770 WARN This is a warning
+2020-05-26 13:32:12.1171 INFO Accessed Home Controller
