@@ -11,3 +11,45 @@
 2020-05-30 06:34:14.6553 WARN Author search got a null request for id: {id}
 2020-05-30 06:36:45.3731 INFO Attempted to get author with id: 1
 2020-05-30 06:36:54.0573 WARN Author search got a null request for id: {id}
+2020-05-30 07:20:10.7935 INFO Author submission attempted
+2020-05-30 07:20:10.8729 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AuthorCreateDTO -> Author
+BookStore_API.DTOs.AuthorCreateDTO -> BookStore_API.Data.Author - 
+2020-05-30 07:21:16.1275 INFO Author submission attempted
+2020-05-30 07:22:03.2850 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AuthorCreateDTO -> Author
+BookStore_API.DTOs.AuthorCreateDTO -> BookStore_API.Data.Author - 
+2020-05-30 07:23:49.0128 INFO Author submission attempted
+2020-05-30 07:24:10.5780 INFO Author Created
+2020-05-30 07:25:13.3107 INFO Attempted Get All Authors
+2020-05-30 07:25:14.1574 INFO Successfully got all Authors.
+2020-05-30 07:25:47.5690 INFO Attempted Get All Authors
+2020-05-30 07:25:47.6050 INFO Successfully got all Authors.
+2020-05-30 07:26:02.4047 INFO Attempted to get author with id: 1
+2020-05-30 07:26:02.5080 INFO Successfully got author with id: 1
+2020-05-30 07:26:06.6473 INFO Attempted to get author with id: 2
+2020-05-30 07:26:06.6612 WARN Author search got a null request for id: {id}
+2020-05-30 07:48:32.8871 INFO Author update attempted for id: 1
+2020-05-30 07:48:32.9068 WARN Bad request was submitted, null or no id match
+2020-05-30 07:48:48.0961 INFO Attempted to get author with id: 1
+2020-05-30 07:48:49.0198 INFO Successfully got author with id: 1
+2020-05-30 07:49:24.8343 INFO Author update attempted for id: 1
+2020-05-30 07:49:24.8343 WARN Bad request was submitted, null or no id match
+2020-05-30 07:50:44.8044 INFO Author update attempted for id: 1
+2020-05-30 07:50:44.9353 INFO Author Created
+2020-05-30 07:51:13.0531 INFO Author update attempted for id: 1
+2020-05-30 07:51:13.0694 INFO Author Created
+2020-05-30 07:51:35.8932 INFO Attempted Get All Authors
+2020-05-30 07:51:35.9247 INFO Successfully got all Authors.
+2020-05-30 08:06:05.2467 INFO Author delete attempted for id: 1
+2020-05-30 08:06:06.3054 INFO Author Deleted
+2020-05-30 08:06:14.3829 INFO Attempted Get All Authors
+2020-05-30 08:06:14.4334 INFO Successfully got all Authors.
+2020-05-30 08:06:31.9722 INFO Author delete attempted for id: 1
+2020-05-30 14:28:28.8841 INFO Attempted Get All Authors
+2020-05-30 14:28:29.7322 INFO Successfully got all Authors.
+2020-05-30 14:28:43.1988 WARN This is a warning
