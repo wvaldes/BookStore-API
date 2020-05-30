@@ -1,0 +1,13 @@
+2020-05-30 06:29:30.9036 INFO Attempted to get author with id: 2
+2020-05-30 06:29:31.8375 WARN Author search got a null request for id: {id}
+2020-05-30 06:33:30.3243 INFO Accessed Home Controller
+2020-05-30 06:33:45.9011 INFO Attempted Get All Authors
+2020-05-30 06:33:46.6685 INFO Successfully got all Authors.
+2020-05-30 06:33:51.7516 INFO Attempted to get author with id: 1
+2020-05-30 06:33:51.8621 WARN Author search got a null request for id: {id}
+2020-05-30 06:33:59.3271 INFO Attempted to get author with id: 1
+2020-05-30 06:33:59.3271 WARN Author search got a null request for id: {id}
+2020-05-30 06:34:14.6441 INFO Attempted to get author with id: 2
+2020-05-30 06:34:14.6553 WARN Author search got a null request for id: {id}
+2020-05-30 06:36:45.3731 INFO Attempted to get author with id: 1
+2020-05-30 06:36:54.0573 WARN Author search got a null request for id: {id}

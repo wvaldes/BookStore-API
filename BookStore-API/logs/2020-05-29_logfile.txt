@@ -1,0 +1,7 @@
+2020-05-29 16:22:58.1098 INFO Attempted Get All Authors
+2020-05-29 16:22:59.1309 ERROR Cannot open database "aspnet-BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\wesley.valdes@gmail.com'. - 
+2020-05-29 16:26:42.8445 INFO Attempted Get All Authors
+2020-05-29 16:26:43.6434 INFO Successfully got all Authors.
+2020-05-29 22:16:52.6528 INFO Attempted Get All Authors
+2020-05-29 22:16:53.5471 INFO Successfully got all Authors.
