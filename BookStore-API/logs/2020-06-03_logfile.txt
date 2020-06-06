@@ -1,0 +1,80 @@
+2020-06-03 16:30:56.3098 INFO Users - Login: Login attempt from user admin
+2020-06-03 16:30:56.5164 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 16:44:06.3886 INFO Users - Login: Login attempt from user admin
+2020-06-03 16:44:06.5488 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 16:47:57.2472 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 16:47:57.3445 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 16:50:41.6704 INFO Authors - Create: Author submission attempted
+2020-06-03 16:50:41.8686 INFO Authors - Create: Author Created
+2020-06-03 16:51:05.8612 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 16:51:05.8949 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 16:51:52.8614 INFO Authors - Create: Author submission attempted
+2020-06-03 16:51:52.8752 INFO Authors - Create: Author Created
+2020-06-03 16:51:55.6973 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 16:51:55.7098 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 16:52:05.3487 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 16:52:05.3612 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 16:56:43.2765 INFO Users - Login: Login attempt from user admin
+2020-06-03 16:56:43.4161 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 17:02:13.2163 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 17:02:13.3156 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 17:04:15.0480 INFO Users - Login: Login attempt from user admin
+2020-06-03 17:04:15.1583 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 17:26:25.9838 INFO Users - Login: Login attempt from user admin
+2020-06-03 17:26:26.1401 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 17:29:00.6699 INFO Authors - Create: Author submission attempted
+2020-06-03 17:29:00.8842 INFO Authors - Create: Author Created
+2020-06-03 17:29:22.7467 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 17:29:22.7957 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 17:31:21.8682 INFO Authors - GetAuthor: Attempted to get author with id: 4
+2020-06-03 17:31:21.8967 INFO Authors - GetAuthor: Successfully got author with id: 4
+2020-06-03 17:31:26.2743 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 17:31:26.2843 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 17:41:53.4356 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 17:41:53.5307 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 18:02:16.4484 INFO Users - Login: Login attempt from user admin
+2020-06-03 18:02:16.6163 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 18:07:13.6134 INFO Users - Login: Login attempt from user admin
+2020-06-03 18:07:13.6506 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 18:11:36.5906 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 18:11:36.6864 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 21:43:48.6046 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:43:48.6993 INFO Users - Login: admin not authenticated
+2020-06-03 21:45:17.3491 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:45:17.3699 INFO Users - Login: admin not authenticated
+2020-06-03 21:46:54.4623 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:46:54.5624 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 21:47:24.0734 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:47:24.0952 INFO Users - Login: admin not authenticated
+2020-06-03 21:47:45.5392 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:47:45.5585 INFO Users - Login: ccustomer1 not authenticated
+2020-06-03 21:47:57.9002 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:47:57.9257 INFO Users - Login: Successfully Authenticated user ccustomer1
+2020-06-03 21:48:20.6706 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:48:20.6925 INFO Users - Login: ccustomer1 not authenticated
+2020-06-03 21:49:49.5468 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:49:49.5715 INFO Users - Login: admin not authenticated
+2020-06-03 21:53:17.2913 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 21:53:17.3784 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 21:53:23.7819 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:53:23.8937 INFO Users - Login: Successfully Authenticated user ccustomer1
+2020-06-03 21:53:38.1623 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:53:38.1799 INFO Users - Login: ccustomer1 not authenticated
+2020-06-03 21:53:43.5161 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 21:53:43.5161 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 21:53:52.9833 INFO Authors - GetAuthor: Attempted to get author with id: 2
+2020-06-03 21:53:53.0087 INFO Authors - GetAuthor: Successfully got author with id: 2
+2020-06-03 21:53:56.6159 INFO Authors - GetAuthors: Attempted Get All Authors
+2020-06-03 21:53:56.6229 INFO Authors - GetAuthors: Successfully got all Authors.
+2020-06-03 21:56:09.3703 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:56:09.5519 INFO Users - Login: Successfully Authenticated user ccustomer1
+2020-06-03 21:56:38.9288 INFO Users - Login: Login attempt from user ccustomer1
+2020-06-03 21:56:38.9539 INFO Users - Login: Successfully Authenticated user ccustomer1
+2020-06-03 21:57:00.1650 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:57:00.1911 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 21:57:54.9740 INFO Users - Login: Login attempt from user admin
+2020-06-03 21:57:55.0338 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 22:02:26.4483 INFO Users - Login: Login attempt from user admin
+2020-06-03 22:02:26.6052 INFO Users - Login: Successfully Authenticated user admin
+2020-06-03 22:02:52.0422 INFO Users - Login: Login attempt from user admin
+2020-06-03 22:02:52.1843 INFO Users - Login: Successfully Authenticated user admin
